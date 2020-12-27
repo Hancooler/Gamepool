@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+        <img src="https://i.pinimg.com/564x/99/00/aa/9900aac352189712050096178d91e74a.jpg" height="100px">
     </a>
     <h1 align="center">Projek PWEB Kelompok</h1>
     <br>
