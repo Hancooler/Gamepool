@@ -100,8 +100,8 @@ a.desc:after {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url("/img/banner.jpg") no-repeat center center;
-    background-size: cover;
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp3806513.jpg&f=1&nofb=1") no-repeat center center;
+    background-size: initial;
 }
 
 .intro-message {
