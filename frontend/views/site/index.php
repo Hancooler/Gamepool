@@ -83,8 +83,8 @@ $this->title = 'My Yii Application';
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Tentang Kami</h2>
-                    <p class="lead">Untuk mengenal lebih jauh <a target="_blank" href="http://www.google.com/fonts"></a>Silahkan klik <a target="_blank" href="index.php?r=site%2Fabout">about</a>.</p>
+                    <h2 class="section-heading">Tentang Gamepool™</h2>
+                    <p class="lead">Untuk mengenal lebih jauh silahkan klik <a target="_blank" href="index.php?r=site%2Fabout">link ini</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/phones.jpg" alt="">
