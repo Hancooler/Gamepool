@@ -40,7 +40,7 @@ $this->title = 'My Yii Application';
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Mini Game For you</h2>
-                    <p class="lead">Mari di coba <a target="_blank" href=""></a>mini game ini bisa dimainkan </p> semoga terhibur dengan Game kami yang ceria.
+                    <p class="lead">Mari di coba <a target="_blank" href=""></a>mini game ini bisa dimainkan </p> 
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="https://image.freepik.com/free-vector/set-virtual-reality-equipment-elements_23-2148812130.jpg" alt="">
@@ -84,7 +84,7 @@ $this->title = 'My Yii Application';
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Tentang Kami</h2>
-                    <p class="lead">Untuk mengenal lebih jauh <a target="_blank" href="http://www.google.com/fonts"></a>Silahkan klik <a target="_blank" href="index.php?r=site%2Fabout">about</a>.</p>
+                    <p class="lead">Untuk mengenal lebih jauh <a target="_blank" href="http://www.google.com/fonts"></a>Silahkan klik <a target="_blank" href="site/about.php">about</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/phones.jpg" alt="">
