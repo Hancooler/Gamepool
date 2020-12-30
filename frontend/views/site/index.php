@@ -13,8 +13,8 @@ $this->title = 'My Yii Application';
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>Landing Page</h1>
-                        <h3>A Template by Start Bootstrap</h3>
+                        <h1>Selamat Datang </h1>
+                        <h3> GamePool Center</h3>
                         <hr class="intro-divider">
                     
                         </ul>
@@ -39,11 +39,11 @@ $this->title = 'My Yii Application';
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <h2 class="section-heading">Mini Game<br>For you</h2>
+                    <p class="lead">Mari di coba <a target="_blank" href=""></a>mini game ini bisa dimainkan  .</p> semoga terhibur
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.jpg" alt="">
+                    <img class="img-responsive" src="https://image.freepik.com/free-vector/set-virtual-reality-equipment-elements_23-2148812130.jpg" alt="">
                 </div>
             </div>
 
@@ -61,11 +61,11 @@ $this->title = 'My Yii Application';
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                    <h2 class="section-heading">NEWS<br>by Tim Creator</h2>
+                    <p class="lead">Berita ini berisi konten tentang seputar teknologi dan game <a target="_blank" href="">PSDCovers</a>! Tidak ada unsur politik </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/dog.jpg" alt="">
+                    <img class="img-responsive" src="https://image.freepik.com/free-vector/people-using-virtual-reality-glasses_23-2148770144.jpg" alt="">
                 </div>
             </div>
 
