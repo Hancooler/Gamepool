@@ -146,6 +146,16 @@ class SiteController extends Controller
     }
 
     /**
+     * Displays game page.
+     *
+     * @return mixed
+     */
+    public function actionGames()
+    {
+        return $this->render('games');
+    }
+
+    /**
      * Signs user up.
      *
      * @return mixed
