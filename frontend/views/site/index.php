@@ -15,7 +15,7 @@ $this->title = 'My Yii Application';
                     <div class="intro-message">
                         <h1>Selamat Datang </h1>
                         <h3> GamePool Center</h3>
-                        <hr class="intro-divider">
+                        
                     
                         </ul>
                     </div>
@@ -39,8 +39,8 @@ $this->title = 'My Yii Application';
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Mini Game<br>For you</h2>
-                    <p class="lead">Mari di coba <a target="_blank" href=""></a>mini game ini bisa dimainkan  .</p> semoga terhibur
+                    <h2 class="section-heading">Mini Game For you</h2>
+                    <p class="lead">Mari di coba <a target="_blank" href=""></a>mini game ini bisa dimainkan </p> semoga terhibur dengan Game kami yang ceria.
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="https://image.freepik.com/free-vector/set-virtual-reality-equipment-elements_23-2148812130.jpg" alt="">
@@ -61,7 +61,7 @@ $this->title = 'My Yii Application';
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">NEWS<br>by Tim Creator</h2>
+                    <h2 class="section-heading">NEWS by Tim Creator</h2>
                     <p class="lead">Berita ini berisi konten tentang seputar teknologi dan game <a target="_blank" href="">PSDCovers</a>! Tidak ada unsur politik </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -83,8 +83,8 @@ $this->title = 'My Yii Application';
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Google Web Fonts and<br>Font Awesome Icons</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+                    <h2 class="section-heading">Tentang Kami</h2>
+                    <p class="lead">Untuk mengenal lebih jauh <a target="_blank" href="http://www.google.com/fonts"></a>Silahkan klik <a target="_blank" href="site/about.php">about</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/phones.jpg" alt="">
