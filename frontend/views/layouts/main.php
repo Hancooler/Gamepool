@@ -19,6 +19,17 @@ AppAsset::register($this);
     <meta charset="<?= Yii::$app->charset ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap" rel="stylesheet">
+    <style>
+        .custom-stail {
+            font-family: 'Bungee Outline';
+            font-weight: Bold;
+            font-size: 30px;
+        }
+    </style>
+
     <?php $this->registerCsrfMetaTags() ?>
     <title>Gamepool - Situs Gaming Center untuk Anda !</title>
     <?php $this->head() ?>
@@ -29,7 +40,7 @@ AppAsset::register($this);
 <div class="wrap">
     <?php
     NavBar::begin([
-        'brandLabel' => Yii::$app->name,
+        'brandLabel' => '<p class="custom-stail">'.Yii::$app->name.'</p>',
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',
