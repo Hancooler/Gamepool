@@ -84,7 +84,7 @@ $this->title = 'My Yii Application';
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Tentang Kami</h2>
-                    <p class="lead">Untuk mengenal lebih jauh <a target="_blank" href="http://www.google.com/fonts"></a>Silahkan klik <a target="_blank" href="site/about.php">about</a>.</p>
+                    <p class="lead">Untuk mengenal lebih jauh <a target="_blank" href="http://www.google.com/fonts"></a>Silahkan klik <a target="_blank" href="index.php?r=site%2Fabout">about</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/phones.jpg" alt="">
