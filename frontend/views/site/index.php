@@ -85,6 +85,7 @@ $this->title = 'My Yii Application';
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Tentang Gamepool™</h2>
                     <p class="lead">Untuk mengenal lebih jauh silahkan klik <a target="_blank" href="index.php?r=site%2Fabout">link ini</a>.</p>
+                    <p class="lead">Ingin selalu up to date subscribe di <a target="_blank" href="index.php?r=site%2Fabout">Newslatter</a></p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/phones.jpg" alt="">
