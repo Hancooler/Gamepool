@@ -13,10 +13,9 @@ $this->title = 'My Yii Application';
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>Selamat Datang </h1>
+                        <h1><strong>Selamat Datang</strong></h1>
                         <h3> GamePool Center</h3>
                         
-                    
                         </ul>
                     </div>
                 </div>
@@ -85,7 +84,7 @@ $this->title = 'My Yii Application';
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Tentang Gamepool™</h2>
                     <p class="lead">Untuk mengenal lebih jauh silahkan klik <a target="_blank" href="index.php?r=site%2Fabout">link</a>ini.</p>
-                    <p class="lead">Ingin selalu up to date? Subscribe di <a target="_blank" href="index.php?r=site%2Fabout">Newsletter</a>kami.</p>
+                    <p class="lead">Ingin selalu up to date? Subscribe di <a target="_blank" href="index.php?r=site%2Fabout">Newsletter</a> kami.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/phones.jpg" alt="">
