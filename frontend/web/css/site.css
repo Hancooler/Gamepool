@@ -97,7 +97,7 @@ a.desc:after {
 .intro-header {
     text-align: center;
     color: #f8f8f8;
-    background: url(https://cdn.hipwallpaper.com/i/48/49/PiEcH2.jpg) no-repeat;
+    background: url('https://cdn.hipwallpaper.com/i/48/49/PiEcH2.jpg') no-repeat;
     background-size: 500 0 500;
 }
 
