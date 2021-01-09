@@ -94,10 +94,10 @@ a.desc:after {
     margin: 0 0 15px 0;
 }
 
-.intro-header {
+div.intro-header {
     text-align: center;
     color: #f8f8f8;
-    content:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Fqmfjuz883g7z.png%3Fwidth%3D1024%26s%3Dc5e92c9c5e20b147ef13daf77eab47dae203496f&f=1&nofb=1);
+    content:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Fqmfjuz883g7z.png%3Fwidth%3D1024%26s%3Dc5e92c9c5e20b147ef13daf77eab47dae203496f&f=1&nofb=1)
 }
 
 .intro-message {
