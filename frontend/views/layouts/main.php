@@ -22,11 +22,18 @@ AppAsset::register($this);
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap" rel="stylesheet">
     <style>
         .custom-stail {
             font-family: 'Bungee Outline';
             font-weight: Bold;
             font-size: 30px;
+        }
+
+        .intro-header {
+            background: url("https://i.pinimg.com/originals/ca/e0/1a/cae01ab5cce960db0d7819cc96e97ce8.png");
+            font-family: 'Ubuntu', sans-serif;
         }
     </style>
 
