@@ -37,7 +37,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="media">
   <div class="media-left media-middle">
     <a href="#">
-      <img class="media-object" src="http://simak.unsil.ac.id/us-unsil//foto/20181/187006080.jpg" alt="..." height=250 width=200>
+      <img class="media-object" src="http://simak.unsil.ac.id/us-unsil//foto/20181/187006080.jpg" alt="..." height=270 width=200>
     </a>
   </div>
   <div class="media-body">
